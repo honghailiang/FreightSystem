@@ -9,9 +9,8 @@
 用swing绘制系统并执行业务逻辑
 
 建立FreightSwing，并初始化数据从cityProvinceList中获取城市和省份目的地做成可检索的（清除输入框的内容后键盘输入拼音(全拼)或者汉字点击enter键）用JAutoCompleteComboBox实现，其中包括用pinyin4j实现的中文向拼音的转换及输入拼音或者汉字匹配检索功能根据选择目的地、输入卷烟数量、选择的配送方式进行运费的计算，从map中取出AirFreight中的基础数据进行计算，目前显示如下：
-image/system.png
 
-
+<img src="image/system.png"/>
 
 
 
